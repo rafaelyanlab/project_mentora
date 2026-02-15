@@ -1,0 +1,43 @@
+{
+  "collections": [
+    {
+      "name": "ds_books",
+      "displayName": "Data Science Books",
+      "files": [
+        {
+          "name": "Feature Engineering and Selection",
+          "displayName": "Feature Engineering and Selection - Max Kuhn",
+          "rawUrl": "https://raw.githubusercontent.com/rafaelyanlab/project_mentora/refs/heads/main/collections/ds_books/book_feature_engineering_selection_complete.json"
+        }
+      ]
+    },
+    {
+      "name": "others",
+      "displayName": "Other Collections",
+      "files": [
+        {
+          "name": "General Concepts",
+          "displayName": "General Data Science Concepts",
+          "rawUrl": "https://raw.githubusercontent.com/rafaelyanlab/project_mentora/refs/heads/main/collections/others/concepts.json"
+        }
+      ]
+    },
+    {
+      "name": "videos",
+      "displayName": "Video Collections",
+      "files": [
+        {
+          "name": "YouTube Video 79tJIF1AzSg",
+          "displayName": "YouTube Video - 79tJIF1AzSg",
+          "rawUrl": "https://raw.githubusercontent.com/rafaelyanlab/project_mentora/refs/heads/main/collections/videos/youtube_video_79tJIF1AzSg.json"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2024-01-15",
+    "description": "Index of all available flashcard collections"
+  }
+}
+
